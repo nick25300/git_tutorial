@@ -7,11 +7,10 @@
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
-    
-    
-    
-def add(a:int,b:int)->int:
-    return a+b
+
+
+def add(a: int, b: int) -> int:
+    return a + b
 
 
 # Press the green button in the gutter to run the script.
